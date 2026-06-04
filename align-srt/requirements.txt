@@ -1,0 +1,6 @@
+# Install with:  pip install -r requirements.txt
+#
+# PyPI package name is "stable-ts" (hyphen).
+# Do NOT run: pip install stable_whisper  — that package does not exist.
+stable-ts>=2.17.0
+openai-whisper>=20231117
